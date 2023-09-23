@@ -6,6 +6,6 @@ function calculateVolume() {
 
         document.getElementById("result").textContent = `обьем Икосаэдра ${calculateVolume.toFixed(2)}`;
     } else {
-        alert("Попробуйте ввести другое число");
+        alert("Введите другое число");
     }
 }

@@ -13,5 +13,10 @@ let float_min = Number.MIN_VALUE;
 let float_max = Number.MAX_VALUE;
 
 // вывод типов данных и диапазоны
-console.log(`int_var: ${typeof int_var}, min: ${int_min}, max: ${int_max}`);
-console.log(`float_var: ${typeof float_var}, min: ${float_min}, max: ${float_max}`);
+console.log(`int_var: ${typeof int_var}, 
+min: ${int_min}, 
+max: ${int_max}`);
+
+console.log(`float_var: ${typeof float_var}, 
+min: ${float_min}, 
+max: ${float_max}`);
